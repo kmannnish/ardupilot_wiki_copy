@@ -2,8 +2,11 @@
 
 UNDER CONSTRUCTION
 
-This wiki contains the source and build configuration files for the ArduPilot wiki.
+This Wiki contains the source
+and build configuration files for the ArduPilot Wiki.
 
-The wiki is built using Sphinx.
+## Requirements
+
+- Sphinx
 
 Lots more to say, but we're under construction :-)
